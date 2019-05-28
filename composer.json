@@ -2,6 +2,7 @@
     "name": "kumarrahul/rchat",
     "description": "This is a laravel package to create a chat application.",
     "type": "composer-plugin",
+	"license": "MIT"
     "authors": [
         {
             "name": "Rahul Kumar",
