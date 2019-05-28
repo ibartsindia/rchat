@@ -1,0 +1,17 @@
+{
+    "name": "kumarrahul/rchat",
+    "description": "This is a laravel package to create a chat application.",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Rahul Kumar",
+            "email": "rahulverma.rkv@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+            "psr-4": {
+                "kumarrahul\\rchat\\": "src/"
+            }
+        }
+}
