@@ -17,7 +17,7 @@
             $this->publishes([
                 __DIR__.'/resources/views' => resource_path('views/vendor/rchat'),
                 __DIR__.'/assets' => public_path('vendor/rchat'),
-            ]);
+            ], 'rchat');
         }
         
         public function register()
